@@ -24,9 +24,5 @@ namespace Expense_Tracker.Models
 
         //data
         public DateTime Date {  get; set; } = DateTime.Now;
-
-       
-
-
     }
 }
